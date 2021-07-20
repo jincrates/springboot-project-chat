@@ -1,1 +1,1 @@
-# spring=project-chat
+# spring-project-chat
