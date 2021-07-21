@@ -1,4 +1,4 @@
-package com.incrates.chat;
+package com.jincrates.chat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
